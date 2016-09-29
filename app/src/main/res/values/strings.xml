@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clever Bus</string>
+    <string name="title_activity_maps">Buses cercanos</string>
+</resources>
